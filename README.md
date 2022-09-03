@@ -1,10 +1,11 @@
-### CondominioTreviso
-# CondominioTreviso
+### Condominio Treviso
+# Condominio Treviso
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 <img src="logo.png" alt="Logo do Condominio Treviso">
 > Uma aplicação web de condominio chamada CondominioTreviso desenvolvida durante o curso de Python no Senac Americana. A aplicação listará condominio e clicando em cada nome de receita você pode ver a receita completa.
 ### Lista de tarefas
