@@ -6,7 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <img src="exemplo.webp" alt="exemplo imagem">
-> Uma aplicação web de receitas chamada CondominioTreviso desenvolvida durante o curso de Python no Senac Americana. A aplicação listará receitas e clicando em cada nome de receita você pode ver a receita completa.
+> Uma aplicação web de condominio chamada CondominioTreviso desenvolvida durante o curso de Python no Senac Americana. A aplicação listará condominio e clicando em cada nome de receita você pode ver a receita completa.
 ### Lista de tarefas
 Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] Pré-requisitos
@@ -35,17 +35,17 @@ python manage.py runserver
 - [X] Alterar o idioma do projeto para `pt-br`
     - Abrir o arquivo `settings.py` e na linha 106 trocar `en-us` para `pt-br`
 - [X] Alterar o timezone do projeto para `America/Sao_Paulo`
-- [X] Criar o app receitas
+- [X] Criar o app condominio
 ```
 * preciso estar dentro da pasta do projeto (CondominioTrevisoProj)
-python manage.py startapp receitas
+python manage.py startapp condominio
 ```
 - [X] Registrar o app condominio
 ```
-no arquivo settings.py adicionar o app receitas na lista de apps 
+no arquivo settings.py adicionar o app condominio na lista de apps 
 INSTALLED_APPS[
     ...
-    'receitas',
+    'condominio',
 ]
 ```
 - [X] Configurar a rota inicial(index)
